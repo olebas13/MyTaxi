@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "647713531724",
+    "firebase_url": "https://mytaxi-51910.firebaseio.com",
+    "project_id": "mytaxi-51910",
+    "storage_bucket": "mytaxi-51910.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647713531724:android:d49443406d92cc05ee11e9",
+        "android_client_info": {
+          "package_name": "org.olebas.mytaxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647713531724-7rmd5kvdhfn6mngvppoqi4pacpqgcaiv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.olebas.mytaxi",
+            "certificate_hash": "79c3f4dbb9451c61e2b4a9f621dbb8a040cbf6f2"
+          }
+        },
+        {
+          "client_id": "647713531724-e020oid3at67otsbmsonqtjni2onjjuk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3zNB1hPbkHzFm3Ykvlf2HnhFno2PvrDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647713531724-e020oid3at67otsbmsonqtjni2onjjuk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
